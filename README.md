@@ -1,4 +1,4 @@
-# Card_UI
+# FLutter Wallet UI
 
 A new Flutter project.
 
